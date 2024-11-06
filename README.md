@@ -1,0 +1,1 @@
+# parser_resume_bot_test_task
